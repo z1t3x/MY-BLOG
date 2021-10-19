@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	text-decoration: none;
+	background: #20b38e; 
+}
+
+header{
+display: flex;
+text-align: center;
+
+}

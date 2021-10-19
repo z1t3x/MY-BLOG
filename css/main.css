@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	text-decoration: none; 
+}
+
+header {
+display: flex;
+font-size: 25px;
+align-items: center;
+background: #20b38e;
+justify-content: space-between;
+}
+main{
+	background: url();
+}
