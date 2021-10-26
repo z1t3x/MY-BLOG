@@ -1,17 +1,19 @@
 * {
 	margin: 0;
 	padding: 0;
-	outline: 0;
-	text-decoration: none; 
+	outline: 0; 
+	text-decoration: inherit; 
 }
 
 header {
 display: flex;
 font-size: 25px;
 align-items: center;
-background: #20b38e;
+background: none;
 justify-content: center;
 width: 100%;
+margin-bottom: -79px;
+height: 79px;
 }
 
 nav {
@@ -29,5 +31,34 @@ nav>a{
 	height: 100vh;
 	width: 100%;
 
+}
+
+.secondary {
 
 }
+
+main {
+
+}
+
+nav>.margin-left1 {
+	text-decoration: overline;
+}
+
+header>img {
+	height: 100%;
+}
+
+footer {
+display: flex;
+font-size: 25px;
+align-items: center;
+background: none;
+justify-content: center;
+width: 100%;
+}
+
+footer>div {
+	margin: 25px;
+}
+
